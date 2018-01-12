@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Fromscratch
 header-img: img/home-bg.png
 email: andrea.nasuto@gmail.com
 copyright_name: andreanasuto
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Words about coding and nonlinear systems
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  andreanasuto
