@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "A portfolio tracker for cryptocurrencies"
-date:       2018-01-24 18:20:47 +0000
+date:       2018-01-24 13:20:48 -0500
 permalink:  a_portfolio_tracker_for_cryptocurrencies
 ---
 
 
-### an easy way to know how much money is worthed your investments
+### an easy way to know how much money is worth your investments
 
 I first heard about Bitcoin in 2011 during a discussion with a bunch of friends studying finance as me.
 For the following years, I've never touched or thought about buying bitcoins or other coins until I came across another discussion, similar set up (a bunch of friends sitting at one table) but different location, US instead of Italy.
